@@ -24,5 +24,3 @@ can and should be stored in a version control system.
 5.  [Open Science](04-open.html)
 
 </div>
-
-Test updated
